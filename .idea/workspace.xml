@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="294179ae-d362-4377-a4e3-f00c1427331a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excelPlay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/excelPlay.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/ReadFromExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/ReadFromExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testFile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testFile.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/excelPlay.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/excelPlay.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testFile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testFile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/UtilsReadFromExcelV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/UtilsReadFromExcelV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
