@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="294179ae-d362-4377-a4e3-f00c1427331a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="294179ae-d362-4377-a4e3-f00c1427331a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excelPlay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/excelPlay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/ReadFromExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/harp/excelPlay/ReadFromExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testFile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testFile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/excelPlay.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/excelPlay.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testFile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testFile.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,25 +24,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VX9640QfQkq4Mgv11URHpa0s1B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.EditorConfig" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.WriteToExcel">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harp.excelPlay.App" />
+  <component name="RunManager" selected="Application.UtilsReadFromExcelV2">
+    <configuration name="ReadFromExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harp.excelPlay.ReadFromExcel" />
       <module name="excelPlay" />
       <extension name="coverage">
         <pattern>
@@ -45,8 +51,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFromExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harp.excelPlay.ReadFromExcel" />
+    <configuration name="UtilsReadFromExcelV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harp.excelPlay.UtilsReadFromExcelV1" />
+      <module name="excelPlay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harp.excelPlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsReadFromExcelV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harp.excelPlay.UtilsReadFromExcelV2" />
       <module name="excelPlay" />
       <extension name="coverage">
         <pattern>
@@ -113,18 +132,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.excelPlay" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.ReadFromExcel" />
       <item itemvalue="Application.ReadFromExcel" />
       <item itemvalue="Application.WriteToExcel" />
+      <item itemvalue="JUnit.ReadFromExcel" />
+      <item itemvalue="Maven.excelPlay" />
+      <item itemvalue="Application.UtilsReadFromExcelV1" />
+      <item itemvalue="Application.UtilsReadFromExcelV2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriteToExcel" />
+        <item itemvalue="Application.UtilsReadFromExcelV2" />
+        <item itemvalue="Application.UtilsReadFromExcelV1" />
         <item itemvalue="Application.ReadFromExcel" />
+        <item itemvalue="Application.WriteToExcel" />
         <item itemvalue="JUnit.ReadFromExcel" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +161,47 @@
       <updated>1577388393521</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1588723175200">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1588360581566" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588723175200" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1588723175199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1588360581565" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588723175199" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1588723175199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1588360581565" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588723175199" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1588723175200">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1588360581565" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588723175200" />
+    <state width="1493" height="275" key="GridCell.Tab.1.bottom" timestamp="1588632280051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="275" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588632280051" />
+    <state width="1493" height="275" key="GridCell.Tab.1.center" timestamp="1588632280051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="275" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1588632280051" />
+    <state width="1493" height="275" key="GridCell.Tab.1.left" timestamp="1588632280051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="275" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1588632280051" />
+    <state width="1493" height="275" key="GridCell.Tab.1.right" timestamp="1588632280051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="275" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1588632280051" />
+    <state x="277" y="62" width="1155" height="710" key="SettingsEditor" timestamp="1588721282142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" width="1155" height="710" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588721282142" />
   </component>
 </project>

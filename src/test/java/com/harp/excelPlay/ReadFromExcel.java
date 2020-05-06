@@ -37,7 +37,7 @@ public class ReadFromExcel {
         // to get column count of a particular row
         for (int i = 0; i <= mysheet.getLastRowNum(); i++) {
             Row row = mysheet.getRow(i);
-          // System.out.println("Number of columns ==>" + row.getLastCellNum());
+            // System.out.println("Number of columns ==>" + row.getLastCellNum());
             for (int j = 0; j < row.getLastCellNum(); j++) {
                 System.out.print(row.getCell(j).getStringCellValue() + "\t\t\t");
 
